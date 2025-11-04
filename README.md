@@ -2,11 +2,9 @@
 
 El siglo pasado estudié DOS, lo que me aburrió profundamente. Hace un par de años decidí retomar mis estudios de informática y comencé por *Excel*, el análisis de datos llamaba mi atención. Al mismo tiempo fui estudiando un poco de análisis financiero, estadística descriptiva, metodología Lean, metodologías ágiles, tecnologías exponenciales, en fin, la transformación digital terminó transformandome y absorviendome (como a todos). Luego pasé por *Power BI* y **SQL** hasta que se hizo inevitable el estudio de lenguajes de programación y P.O.O. Comencé con **Java** y mi mundo cambió con **VS Code**. Practiqué mucho con **Git**, para atras y para adelante. Sólo para conocerlos miré de re-ojo *Html, CSS y JavaScript*. Casi nada de *Python*. Hoy sólo me dedico al estudio y el desarrollo en **.NET** con **C#**, casi como una obsesión, es una pasión que se despertó en mi cuando ya pensaba que no iba a estudiar nunca más. Y ahora no puedo parar. 
 
----
+--- 
 
 ## 🚀 En qué estoy trabajando
-
-Próximamente voy a subir dos proyectos que reflejan mi enfoque de desarrollo:
 
 ### 🟢 PropAlert – Gestión de vencimientos para inmobiliarias
 
@@ -31,7 +29,7 @@ Próximamente voy a subir dos proyectos que reflejan mi enfoque de desarrollo:
 - Compatibilidad multiplataforma: Windows / Android / macOS / iOS
 - Configuración visual sin necesidad de editar archivos  
 - Documentación profesional y entrega clara  
-- Validación rigurosa desde la experiencia del usuario
+- Validación desde la experiencia del usuario
 
 ---
 
