@@ -44,11 +44,6 @@ Próximamente voy a subir dos proyectos que reflejan mi enfoque de desarrollo:
 - `Markdown` – Documentación clara  
 - `JSON` – Configuración estructurada
 
-### 🔗 Integraciones y APIs
-- `Google Drive API` – Verificación de documentos  
-- `OAuth2` – Autenticación segura  
-- `MailKit` / `System.Net.Mail` – Envío de alertas por correo
-
 ### 🛠️ Herramientas y entornos
 - `Visual Studio 2022`  
 - `VS Code`  
