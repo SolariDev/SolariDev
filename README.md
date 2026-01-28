@@ -1,59 +1,44 @@
-# Hola 👋 
+# 👋 Bienvenido a mi espacio
 
-El siglo pasado estudié DOS, lo que me aburrió profundamente. Hace un par de años decidí retomar mis estudios de informática y comencé por *Excel*, el análisis de datos llamaba mi atención. Al mismo tiempo fui estudiando un poco de análisis financiero, estadística descriptiva, metodología Lean, metodologías ágiles, tecnologías exponenciales, en fin, la transformación digital terminó transformandome y absorviendome (como a todos). Luego pasé por *Power BI* y **SQL** hasta que se hizo inevitable el estudio de lenguajes de programación y P.O.O. Comencé con **Java** y mi mundo cambió con **VS Code**. Practiqué mucho con **Git**, para atras y para adelante. Sólo para conocerlos miré de re-ojo *Html, CSS y JavaScript*. Casi nada de *Python*. Hoy sólo me dedico al estudio y el desarrollo en **.NET** con **C#**, casi como una obsesión, es una pasión que se despertó en mi cuando ya pensaba que no iba a estudiar nunca más. Y ahora no puedo parar. 
+Aquí respaldo y comparto mis trabajos en desarrollo. Estoy estudiando programación hace 2 años aprox. y aprendo mucho con la práctica. Comencé con proyectos de estudio en **C# y .NET**, y hoy se estan consolidando algunos de mis conocimientos en un proyecto institucional en **PHP/WordPress**.
 
 --- 
 
-## 🚀 En qué estoy trabajando
+## 🚀 Mis proyectos hoy:
 
-### 🟢 PropAlert – Gestión de vencimientos para inmobiliarias
-
-- Aplicación de escritorio (Windows/macOS)
-- Control visual de contratos por vencer
-- Verificación automática de documentación en Google Drive
-- Alertas por correo electrónico configurables desde la interfaz
-- Autonomía total: no requiere intervención técnica después de la instalación
-
-### 🟣 Alma_Zen – Organización financiera para pequeños negocios
-
-- App de registros de ingresos y egresos para Android y Windows
-- Ordena visualmente los beneficios mensuales
-- Diseñada para transmitir claridad y control emocional
+### 🟣 Alma_Zen – Proyecto de estudio en .NET
+- App de registros financieros en C# para Android y Windows
+- Diseñada para ordenar ingresos y egresos de pequeños negocios
 - Interfaz armónica, liviana y adaptable sin soporte técnico
+- Aún sin terminar, repo privado por ahora
+
+### 🟢 PropAlert – El comienzo de THBR
+- Aplicación de escritorio en C# (Windows/macOS)
+- Control visual de vencimientos de contratos de alquiler
+- Alertas por correo electrónico configurables desde la interfaz
+- Es el Genesis de THBR, quedó sin terminar porque escaló a un entorno institucional migrando framework y lenguaje.
 
 ---
 
-## 🎯 Qué priorizo en cada proyecto
-
-- Módulos autoexplicativos con onboarding autónomo  
-- Compatibilidad multiplataforma: Windows / Android / macOS / iOS
-- Configuración visual sin necesidad de editar archivos  
-- Documentación profesional y entrega clara  
-- Validación desde la experiencia del usuario
+### 🔵 THBR – Proyecto institucional en PHP/WordPress
+- Repositorio público en GitHub 
+- Permite registrar usuarios y cargar contratos para verlos en un historial donde se pueden editar, enviar a papelera o eliminar  
+- Está en face de producción pero en desarrollo de nuevas funcionalidades. 
+- Tiene una estrategia de respaldo para segurar los datos y una baja dependencia de WordPress.
 
 ---
 
 ## ⚙️ Tecnologías que utilizo
-
-### 💻 Lenguajes y frameworks
-- `C#` – Lenguaje principal  
-- `.NET MAUI` – Apps multiplataforma  
-- `XAML` – Interfaces visuales  
-- `Markdown` – Documentación clara  
-- `JSON` – Configuración estructurada
-
-### 🛠️ Herramientas y entornos
-- `Visual Studio 2022`  
-- `VS Code`  
-- `GitHub`  
-- `Git`  
-- `Windows` / `macOS`
+- **C# / .NET MAUI / XAML** (proyectos de estudio).  
+- **PHP / WordPress / MySQL** (proyecto institucional THBR).  
+- **Markdown / JSON** para documentación y configuración.  
+- Herramientas: Visual Studio 2022, VS Code, GitHub, Git, Servicios de Hosting.
 
 ---
 
 ## 🔍 En resumen
 
-Mi objetivo es crear soluciones que se entiendan facilmente, que se puedan usar sin conocimientos técnicos ni instalaciones externas. Que la experiencia del usuario sea reconfortante, convirtiendo el rutinario trabajo diario en una tarea entretenida. Para esto trabajo y estudio cada día con la vista en el futuro. 
+Mi objetivo es crear soluciones que se entiendan facilmente, que se puedan usar sin conocimientos técnicos ni instalaciones externas. Buscando que la experiencia del usuario sea reconfortante, convirtiendo el rutinario trabajo diario en una tarea entretenida. 
 
 ---
 
