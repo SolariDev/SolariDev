@@ -2,7 +2,7 @@
 
 Desarrollador web. Construyo aplicaciones que resuelven problemas reales de negocios pequeños: inmobiliarias, almacenes de barrio y emprendedores que venden por redes.
 
-Todas mis aplicaciones están **en producción y en uso diario** por sus clientes. El código es privado; si querés ver una demo, escribime.
+Mis aplicaciones nacen de casos reales: **Alma-Zen** está en uso diario en un almacén de Neptunia y **THBR**, de donde sale Rentify, en una inmobiliaria de Montevideo. El código de los productos es privado; si querés ver una demo, escribime.
 
 ---
 
@@ -14,7 +14,8 @@ Aplicación web pensada para usarse **desde el celular**, detrás del mostrador.
 - Precios siempre al día: el equipo registra y actualiza los productos y el administrador aprueba los cambios antes de publicarlos.
 - Buscador en vivo de productos, por nombre, marca o empaque.
 - Usuarios con roles (administrador y usuario), con alta y baja gestionadas por el administrador.
-- **En desarrollo:** punto de venta, venta por peso o por monto, y control de fiado por cliente.
+- Punto de venta desde el celular: venta por unidad, por peso o por monto, con borrador automático de la venta en curso.
+- **En desarrollo:** control de fiado por cliente y pagos en caja o débito.
 
 En uso diario en un almacén de barrio de Neptunia.
 
@@ -24,7 +25,7 @@ En uso diario en un almacén de barrio de Neptunia.
 Plugin de WordPress que centraliza los contratos de una inmobiliaria.
 
 - Carga de contratos y seguimiento de vencimientos con alertas por nivel de urgencia (semáforo).
-- Avisos automáticos por correo a las partes involucradas.
+- Servicio de alertas por correo con tarea programada diaria *(en pruebas)*.
 - Arquitectura PHP con namespaces (PSR-4), Composer y entorno de desarrollo en Docker.
 
 Es la evolución de **THBR**, la versión que desarrollé para una inmobiliaria de Montevideo y que usan todos los días.
