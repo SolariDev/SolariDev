@@ -1,41 +1,49 @@
 # Gabriel Solari · Cuarahy.NET
 
-Desarrollador web. Construyo aplicaciones que resuelven problemas reales de negocios pequeños: inmobiliarias, almacenes de barrio y emprendedores que venden por redes.
+Desarrollador web en Neptunia, Uruguay. Hago sistemas a medida para negocios que todavía llevan todo en un cuaderno, y páginas web.
 
-Mis aplicaciones nacen de casos reales: **Alma-Zen** está en uso diario en un almacén de Neptunia y **THBR**, de donde sale Rentify, en una inmobiliaria de Montevideo. El código de los productos es privado; si querés ver una demo, escribime.
+Mis productos nacen de casos reales: **Alma-Zen** se usa todos los días en un almacén de Neptunia y **THBR** en una inmobiliaria de Montevideo. El código de los productos es privado; si querés verlos funcionando, escribime.
+
+🌐 **[cuarahy.net](https://cuarahy.net)**
 
 ---
 
 ## Productos
 
-### Alma-Zen · Gestión para almacenes
-Aplicación web pensada para usarse **desde el celular**, detrás del mostrador.
+### Alma-Zen · Ventas para almacenes
+App web para usar desde el celular, detrás del mostrador. En producción desde septiembre de 2026.
 
-- Precios siempre al día: el equipo registra y actualiza los productos y el administrador aprueba los cambios antes de publicarlos.
-- Buscador en vivo de productos, por nombre, marca o empaque.
-- Usuarios con roles (administrador y usuario), con alta y baja gestionadas por el administrador.
-- Punto de venta desde el celular: venta por unidad, por peso o por monto, con borrador automático de la venta en curso.
-- **En desarrollo:** control de fiado por cliente y pagos en caja o débito.
+- Buscador en vivo que distingue productos con el mismo nombre por marca, presentación y precio.
+- Venta por unidad, por peso o por monto: vender $100 de algo que va por kilo, sin hacer cuentas.
+- Cobro en caja, débito o mixto. La venta en curso se guarda sola y no se pierde.
+- Usuarios con roles: los cambios de precio que propone un empleado los aprueba el administrador.
+- Clientes y avisos al administrador cuando alguien registra un producto o un cliente nuevo.
+- **En pruebas con el almacén:** fiado por cliente, con saldo y cobro de deuda.
 
-En uso diario en un almacén de barrio de Neptunia.
+`PHP` `WordPress` `MySQL` `JavaScript` `HTML` `CSS` · Contraseñas con hash, protección CSRF, consultas preparadas, límite de intentos de login y protección contra ventas duplicadas por doble toque.
 
-`PHP` `WordPress` `MySQL` `JavaScript` · Seguridad según buenas prácticas OWASP (CSRF, consultas preparadas, límite de intentos de login).
+### THBR · Vencimientos de contratos
+Sistema a medida para una inmobiliaria de Montevideo, en uso diario.
 
-### Rentify · Gestión de contratos de alquiler
-Plugin de WordPress que centraliza los contratos de una inmobiliaria.
+- Contratos con colores según cuánto falta para el vencimiento: verde, amarillo (hasta 90 días) y rojo.
+- Buscador, notas, papelera y recuperación de contraseña.
 
-- Carga de contratos y seguimiento de vencimientos con alertas por nivel de urgencia (semáforo).
-- Servicio de alertas por correo con tarea programada diaria *(en pruebas)*.
-- Arquitectura PHP con namespaces (PSR-4), Composer y entorno de desarrollo en Docker.
+`PHP` `WordPress` `MySQL` `JavaScript` `HTML` `CSS`
 
-Es la evolución de **THBR**, la versión que desarrollé para una inmobiliaria de Montevideo y que usan todos los días.
+### Rentify · Contratos de alquiler · *en preparación*
+Producto nacido de THBR, pensado para otras inmobiliarias. Todavía no está en uso en otros negocios.
 
-`PHP` `WordPress` `MySQL` `PHPMailer` `Docker`
+- Seguimiento de vencimientos por nivel de urgencia.
+- Alertas por correo con tarea programada diaria *(en pruebas)*.
+- PHP con namespaces (PSR-4), Composer y entorno de desarrollo en Docker.
 
-### Tienda online para quienes venden por Instagram · *próximamente*
-Del catálogo de Instagram a una tienda propia, con pago por Mercado Pago.
+`PHP` `WordPress` `MySQL` `JavaScript` `HTML` `CSS` `PHPMailer` `Docker`
 
-`WordPress` `WooCommerce` `Mercado Pago`
+---
+
+## Servicios
+
+Páginas web, landing pages y tiendas online. Mi propia web, [cuarahy.net](https://cuarahy.net), está hecha con HTML, CSS y JavaScript sin librerías, con fuentes propias y sin rastreadores ni cookies.
 
 ---
 
@@ -47,18 +55,17 @@ Del catálogo de Instagram a una tienda propia, con pago por Mercado Pago.
 
 ---
 
-## En resumen
+## Cómo trabajo
 
-Mi objetivo es crear soluciones **claras, accesibles, seguras y confiables**.
-Busco que cada proyecto convierta tareas rutinarias en experiencias simples y agradables.
-
-La claridad no es solo estética: es respeto por el usuario, autonomía en el uso y confianza en cada paso.
+- Parto de cómo trabaja el negocio, no de una plantilla.
+- Seguridad desde el principio: ninguna credencial en el código y cada despliegue revisado.
+- Pruebo cada cambio antes de subirlo, para que lo que ya está en uso no se rompa.
 
 ---
 
 ## Contacto
 
-- **Web:** cuarahy.net *(próximamente)*
+- **Web:** [cuarahy.net](https://cuarahy.net)
 - **Correo:** gabrielsolari75@gmail.com
 - **LinkedIn:** [Gabriel Solari](https://www.linkedin.com/in/gabriel-solari-490939278/)
 - **WhatsApp:** [+598 96 239 919](https://wa.me/59896239919)
