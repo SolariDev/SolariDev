@@ -2,7 +2,7 @@
 
 Desarrollador web en Neptunia, Uruguay. Hago sistemas a medida para negocios que todavía llevan todo en un cuaderno, y páginas web.
 
-Mis productos nacen de casos reales: **Alma-Zen** se usa todos los días en un almacén de Neptunia y **THBR** en una inmobiliaria de Montevideo. El código de los productos es privado; si querés verlos funcionando, escribime.
+Tengo dos productos y cada cliente recibe su versión, con su nombre, su logo y lo que necesita: **Alma-Zen**, para comercios, en uso en Almacén Ruffo (Neptunia), y **Rentify**, para inmobiliarias, en uso en TreeHouse Bienes Raíces (Montevideo). El código es privado; si querés verlos funcionando, escribime.
 
 🌐 **[cuarahy.net](https://cuarahy.net)**
 
@@ -10,32 +10,25 @@ Mis productos nacen de casos reales: **Alma-Zen** se usa todos los días en un a
 
 ## Productos
 
-### Alma-Zen · Ventas para almacenes
-App web para usar desde el celular, detrás del mostrador. En producción desde septiembre de 2026.
+### Alma-Zen · Ventas para comercios de barrio
+App web para el celular o cualquier dispositivo, pensada para usar detrás del mostrador. En uso en Almacén Ruffo, con el nombre, el logo y el ícono del almacén.
 
 - Buscador en vivo que distingue productos con el mismo nombre por marca, presentación y precio.
 - Venta por unidad, por peso o por monto: vender $100 de algo que va por kilo, sin hacer cuentas.
 - Cobro en caja, débito o mixto. La venta en curso se guarda sola y no se pierde.
+- Ventas a fiado, con el saldo de cada cliente siempre al día.
 - Usuarios con roles: los cambios de precio que propone un empleado los aprueba el administrador.
-- Clientes y avisos al administrador cuando alguien registra un producto o un cliente nuevo.
-- **En pruebas con el almacén:** fiado por cliente, con saldo y cobro de deuda.
+- Avisos al administrador cuando alguien registra un producto o un cliente nuevo.
 
 `PHP` `WordPress` `MySQL` `JavaScript` `HTML` `CSS` · Contraseñas con hash, protección CSRF, consultas preparadas, límite de intentos de login y protección contra ventas duplicadas por doble toque.
 
-### THBR · Vencimientos de contratos
-Sistema a medida para una inmobiliaria de Montevideo, en uso diario.
+### Rentify · Contratos de alquiler
+Para inmobiliarias: los contratos y sus vencimientos, sin perder ninguna fecha. En uso en TreeHouse Bienes Raíces, con su marca y adaptado a cómo trabajan ellos.
 
 - Contratos con colores según cuánto falta para el vencimiento: verde, amarillo (hasta 90 días) y rojo.
 - Buscador, notas, papelera y recuperación de contraseña.
-
-`PHP` `WordPress` `MySQL` `JavaScript` `HTML` `CSS`
-
-### Rentify · Contratos de alquiler · *en preparación*
-Producto nacido de THBR, pensado para otras inmobiliarias. Todavía no está en uso en otros negocios.
-
-- Seguimiento de vencimientos por nivel de urgencia.
-- Alertas por correo con tarea programada diaria *(en pruebas)*.
 - PHP con namespaces (PSR-4), Composer y entorno de desarrollo en Docker.
+- **Lo que viene:** avisos por correo antes del vencimiento.
 
 `PHP` `WordPress` `MySQL` `JavaScript` `HTML` `CSS` `PHPMailer` `Docker`
 
